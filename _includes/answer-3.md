@@ -1,5 +1,6 @@
-*Question 3:* What did you think of our service during the time you used it?
+### What did you think of our service during the time you used it?
 
-To be honest, the *Deploy to netlify* button was fast enough, it took less than 
-a minute as stated which is good. The only issue I have is with the admin ui, 
-I believe we could use some ui improvements there.
+The ``deploy to Netlify`` link action from the staticgen site was quick. 
+I initially had issues with the admin UI, but on second thought, the UI is clean, 
+clear and simple. Everything is easy to find and navigate. Offline, the UI still works 
+(thanks to SPA) except for some widgets that load their data on demand.

@@ -1,8 +1,8 @@
-*Question 5:* Could you give us a suggestion to improve this test or the job posting?
+###  Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.  
 
-First of all, The job post is perfect nothing to change there, in fact after reading the
-job post the first time I came across it, I was encouraged to apply. But I am not comfortable
-posting answers to the next steps questions in the public. The idea of using netlify to publish
-a live site is good, but the test could have been to build a live site with so and so feature or
-maybe provide a repo of a broken site on github and ask the candidate to fix it as part of the technical
-support challenge or something similar. Overall the exercise was fun, thanks.
+The [Stripe API Reference](https://stripe.com/docs/api) does a fantastic job of copy-paste ready 
+sample API calls. Each example request includes the proper cURL parameters, an API key, as well 
+as any identifiers needed for a successful API call. The most impressive part is that you don’t 
+need to be logged in, or even have an account, to have a successful API call. Stripe creates a 
+unique API key for every visitor to its documentation, providing the ultimate low-friction path 
+to sample calls.

@@ -1,9 +1,12 @@
-*Question 7:* Why do you think SSL/HTTPS is important?  
+### what you think 2 major challenges around DNS configuration are for less-technical internet end-users ?
 
-> * HTTP/2 Boost your sites performance — HTTP/2 only works when HTTPS is enabled
-> * SEO Google awards site works with HTTPS enabled
-> * (Analytics) If your visitors comes from HTTPS enabled sites, you only get referrers if you support HTTPS as well.
-> * Content Integrity Without SSL, free Wi-fi services can inject ads into your pages.
-> * Security If you have a login on a Single Page App or accept form submissions, HTTPS is essential for your users’ security and privacy  
-> -- Netlify  
+First and foremost the first challenge around DNS configuration for less-technical internet 
+end-users is the ability to use dig, nslookup, host, ping, and other DNS querying tools for troubleshooting 
+DNS settings. It can be very difficult to diagnose configuration issues without a good solid knowledge of these tools. 
 
+Another challenge that comes to mind is Ease of Use. Open Source DNS solutions like BIND 
+do not have native GUIs or robust API integrations, plus deploying and maintaining such a solution across 
+your infrastructure is generally a complex process that is fraught with difficulty. 
+
+DNS can get very technical. If you are not very technical, get an expensive system that will do nearly everything automatically 
+and make sure it has excellent technical support.
