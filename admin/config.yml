@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: bastiaan02/jekyll-base
 
 display_url: https://boilerman-alec-36888.netlify.com
 
