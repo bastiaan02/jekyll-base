@@ -5,4 +5,4 @@ image: ''
 ---
 Customers whose complaints are not satisfactorily addressed may approach the forum office Draft
 
-In Flow you can use union types similar to enums:
+In Flow you can use union types similar to enums: Updated
